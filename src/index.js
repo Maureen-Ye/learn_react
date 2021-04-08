@@ -1,17 +1,16 @@
+//0.引入
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+//webpack
 
+//生成文本
+import Todolist from "./Todolist";
+
+//1.挂载id=root的div上,jsx语法需要引入react模块，render渲染只能单标签,组件要大写，不然就是html标签,
+//将它放进组件
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
+    <Todolist />,
+      document.getElementById('root')
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+
