@@ -16,10 +16,18 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb8b86de-838d-4294-8a43-249205dbb709" name="默认更改列表" comment="dd" />
+    <list default="true" id="fb8b86de-838d-4294-8a43-249205dbb709" name="默认更改列表" comment="dd">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +43,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1quUhOLlZsJK7Lxax0LrbeeJwiF" />
@@ -67,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617929086941</updated>
-      <workItem from="1617929089470" duration="18960000" />
+      <workItem from="1617929089470" duration="19498000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1617929159858</created>
@@ -90,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617959447275</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="dd">
+      <created>1617959632329</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617959632329</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,7 +122,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -113,13 +146,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="dd" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1110" y="385" key="#Notifications" timestamp="1617959988960">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1110" y="385" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1617959988960" />
     <state x="842" y="278" key="FileChooserDialogImpl" timestamp="1617959504440">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="842" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1617959504440" />
-    <state x="749" y="276" key="Vcs.Push.Dialog.v2" timestamp="1617959409171">
+    <state x="749" y="276" key="Vcs.Push.Dialog.v2" timestamp="1617959982612">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="749" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617959409171" />
+    <state x="749" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617959982612" />
   </component>
 </project>
