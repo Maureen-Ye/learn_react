@@ -19,23 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb8b86de-838d-4294-8a43-249205dbb709" name="默认更改列表" comment="测试">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/my-app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TodoItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Todolist.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Todolist.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="fb8b86de-838d-4294-8a43-249205dbb709" name="默认更改列表" comment="dd" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -77,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617929086941</updated>
-      <workItem from="1617929089470" duration="18640000" />
+      <workItem from="1617929089470" duration="18960000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1617929159858</created>
@@ -86,7 +76,21 @@
       <option name="project" value="LOCAL" />
       <updated>1617929159858</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dd">
+      <created>1617959378821</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617959378821</updated>
+    </task>
+    <task id="LOCAL-00003" summary="dd">
+      <created>1617959447275</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617959447275</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,12 +109,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试" />
+    <MESSAGE value="dd" />
+    <option name="LAST_COMMIT_MESSAGE" value="dd" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="749" y="276" key="Vcs.Push.Dialog.v2" timestamp="1617929202279">
+    <state x="842" y="278" key="FileChooserDialogImpl" timestamp="1617959504440">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="749" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617929202279" />
+    <state x="842" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1617959504440" />
+    <state x="749" y="276" key="Vcs.Push.Dialog.v2" timestamp="1617959409171">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="749" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1617959409171" />
   </component>
 </project>
