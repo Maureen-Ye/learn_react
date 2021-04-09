@@ -7,7 +7,7 @@ class Todolist extends react.Component{
           <input />
           <ul>
             <li>learn React</li>
-            <li>learn Component</li>
+            <li>learn GitHUb</li>
           </ul>
         </react.Fragment>
     )
