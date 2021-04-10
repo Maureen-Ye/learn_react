@@ -26,7 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb8b86de-838d-4294-8a43-249205dbb709" name="默认更改列表" comment="dd">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Todolist.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Todolist.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +70,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -83,6 +84,7 @@
       <updated>1617929086941</updated>
       <workItem from="1617929089470" duration="19498000" />
       <workItem from="1617960168415" duration="636000" />
+      <workItem from="1618027864287" duration="381000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1617929159858</created>

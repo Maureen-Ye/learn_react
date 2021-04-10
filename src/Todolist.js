@@ -72,7 +72,7 @@ class Todolist extends react.Component {
     return (
         <react.Fragment>
           {/*注释jsx*/}
-          <label htmlFor='my_input'>请输入内容：</label>
+          <label htmlFor='my_input'>请输入测试内容：</label>
           <input
               id='my_input'
               className='input'
