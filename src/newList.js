@@ -9,7 +9,7 @@ const data = [
   'dfasfvdfssaafghf'
 ];
 
-class Antdesign extends react.Component {
+class NewList extends react.Component {
   render() {
     return(
         <react.Fragment>
@@ -36,4 +36,4 @@ class Antdesign extends react.Component {
   }
 }
 
-export default Antdesign;
+export default NewList;
