@@ -11,6 +11,7 @@ const data = [
 
 class NewList extends react.Component {
   render() {
+
     return(
         <react.Fragment>
           <List
