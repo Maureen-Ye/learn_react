@@ -7,7 +7,7 @@ class NewButton extends react.Component{
     return(
 
           <Link to='/123'>
-            <Button type="primary">回到首页</Button>
+            <Button type="primary">到首页</Button>
           </Link>
 
 
