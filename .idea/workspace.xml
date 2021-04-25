@@ -20,28 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af9db64b-7e15-46ce-a250-d9f940007dd4" name="默认更改列表" comment="ejecting配置，route页面路由">
-      <change afterPath="$PROJECT_DIR$/config/env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/getHttpsConfig.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/jest/babelTransform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/jest/cssTransform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/jest/fileTransform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/modules.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/paths.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/pnpTs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/webpackDevServer.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/build.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/start.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index111.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RouteIndex.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/RouteIndex.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/button.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/button.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/newList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/newList.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -89,6 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1618363811570</updated>
       <workItem from="1618363814674" duration="7646000" />
+      <workItem from="1618903353097" duration="397000" />
     </task>
     <servers />
   </component>
@@ -105,16 +88,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ejecting配置，route页面路由" />
     <option name="LAST_COMMIT_MESSAGE" value="ejecting配置，route页面路由" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="823" y="429" key="#ESLint" timestamp="1618371515027">
+    <state x="823" y="429" key="#ESLint" timestamp="1618903359563">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="823" y="429" key="#ESLint/0.0.1920.1040@0.0.1920.1040" timestamp="1618371515027" />
+    <state x="823" y="429" key="#ESLint/0.0.1920.1040@0.0.1920.1040" timestamp="1618903359563" />
     <state x="806" y="286" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1618366544074">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
